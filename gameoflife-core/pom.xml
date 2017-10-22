@@ -61,7 +61,7 @@
                 <artifactId>jacoco-maven-plugin</artifactId>
                 <version>0.7.2.201409121644</version>
                 <configuration>
-                    <outputDirectory>${basedir}/target/classes</outputDirectory>
+                    <outputDirectory>${basedir}/target/gameoflife-core/classes</outputDirectory>
                 </configuration>
             </plugin>
         </plugins>
